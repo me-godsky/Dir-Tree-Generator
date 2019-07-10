@@ -13,7 +13,7 @@ Usage :
 
 python3 DTG.py -p <path of dir traversal> -d <depth of traversal> -l <length in pixels of image> -b <breadth in pixels of image> -f <filename>
 							
-										                                OR
+OR
 
 python3 DTG.py --path <path of dir traversal> --depth <depth of traversal> --length <length in pixels of image> --breadth <breadth in pixels of image> --filename <filename>
   
