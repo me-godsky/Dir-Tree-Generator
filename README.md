@@ -19,4 +19,4 @@ python3 DTG.py --path <path of dir traversal> --depth <depth of traversal> --len
   
 Example :
 
-python3 DTG.py -p /home/godsky/Desktop/ -d 4 -l 800 -b 1200 -f new.png
+	python3 DTG.py -p /home/godsky/Desktop/ -d 4 -l 800 -b 1200 -f new.png
