@@ -10,6 +10,9 @@ This tool is designed for better view of Subdirectories and files in a proper fo
 - User can provide depth upto which the traversal of dirs should be done by tool. 
 - Sub-dirs are represented by red and files by green colour.
 
+## Requirements:
+	sudo pip3 install -r requirements.txt
+	
 ## Usage :
 
 **python3 DTG.py -p [path of dir traversal] -d [depth of traversal] -l [length in pixels of image] -b [breadth in pixels of image] -f [filename]**
@@ -21,3 +24,7 @@ OR
 ### Example :
 
 	python3 DTG.py -p /home/godsky/Desktop/ -d 4 -l 800 -b 1200 -f new.png
+
+
+
+**_This tool is for linux distros only_**
