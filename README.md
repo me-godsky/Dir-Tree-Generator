@@ -1,5 +1,5 @@
 # Dir-Tree-Generator
-Directory Tree Generator tool 
+***Directory Tree Generator tool*** 
 
 This tool is designed for better view of Subdirectories and files in a proper format such that an image is created with user defined size.
 
