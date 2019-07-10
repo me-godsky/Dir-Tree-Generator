@@ -4,10 +4,10 @@ Directory Tree Generator tool
 This tool is designed for better view of Subdirectories and files in a proper format such that an image is created with user defined size.
 
 Features :
-	-> Output in the form of an image. 
-	-> User defined size of image.
-	-> User can provide depth upto which the traversal of dirs should be done by tool. 
-	-> Sub-dirs are represented by red and files by green colour.
+-> Output in the form of an image. 
+-> User defined size of image.
+-> User can provide depth upto which the traversal of dirs should be done by tool. 
+-> Sub-dirs are represented by red and files by green colour.
 
 Usage :
 
